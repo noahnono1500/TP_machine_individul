@@ -1,1 +1,1 @@
-# TP_machine_individul
+# TP_machine_individuel
